@@ -9,14 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ReactjsProgram/react-fundamentals-curriculum.git"
+    "url": "git+https://github.com/paulinhapenedo/react-fundamentals-curriculum.git"
   },
-  "author": "Tyler McGinnis <tylermcginnis33@gmail.com> (http://tylermcginnis.com)",
+  "author": "Paula Penedo Barbosa",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ReactjsProgram/react-fundamentals-curriculum/issues"
-  },
-  "homepage": "https://github.com/ReactjsProgram/react-fundamentals-curriculum#readme",
   "devDependencies": {
     "babel-core": "^6.6.5",
     "babel-loader": "^6.2.4",
